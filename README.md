@@ -17,7 +17,7 @@ A simple Todo application built with React to help you manage your tasks and to-
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 
 ## Features
@@ -81,8 +81,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 Please ensure your code follows the project's coding standards.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
